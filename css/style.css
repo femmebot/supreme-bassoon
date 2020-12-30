@@ -6,7 +6,15 @@ body {
   border: 1px solid #aaa;
   padding: 8px 24px;
 }
-.nav-light img {
+.nav-light img,
+.nav-magenta img,
+.nav-indigo img {
   height: 32px;
   width: auto;
+}
+.nav-magenta {
+  background-color: #AB2165;
+}
+.nav-indigo {
+  background-color: #5942D2;
 }
