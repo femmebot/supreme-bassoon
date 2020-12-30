@@ -14,7 +14,10 @@ body {
 }
 .nav-magenta {
   background-color: #AB2165;
+  padding: 8px 24px;
+
 }
 .nav-indigo {
   background-color: #5942D2;
+  padding: 8px 24px;
 }
